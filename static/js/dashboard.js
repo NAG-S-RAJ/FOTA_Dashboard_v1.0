@@ -1,4 +1,4 @@
-const SERVER = "https://fota-demo-v2-0.onrender.com";
+const SERVER = "https://fota-server-v1-0.onrender.com";
 
 function downloadLogs(){
 
